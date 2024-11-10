@@ -68,5 +68,3 @@ Veuillez ajouter les URL des images dans le champ image lors de l'ajout d'articl
 
 ### Modèle de classification d'image pour la Catégorie
 L'application inclut une fonctionnalité d'intelligence artificielle pour détecter automatiquement la catégorie d'un vêtement en fonction de l'image fournie. Bien que l'intégration de l'IA se soit déroulée correctement, un problème persistant avec le modèle lui-même empêche l'obtention de prédictions précises. Malgré de longues recherches et tests, le modèle affiche toujours la même prédiction par défaut. En conclusion, l'erreur provient du modèle en lui-même et non de son intégration dans l'application.
-
-J'ai aussi laissé dans les assets un modèle très performant qui reconnaissait sans aucune erreurs les vetements parmis 9 catégories. Malheureusment, malgrés des heures de tests, je n'ai pas réussi à l'intégrer à l'application ayant des erreurs de redimenssionement et autres...
