@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592050950634",
+    "project_id": "flutter-vinted-municchi",
+    "storage_bucket": "flutter-vinted-municchi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592050950634:android:5211f1ba312506aa0e6293",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vinted"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAypVuUmrRfoVKJDo6P95fFcahaQ5xv6o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
